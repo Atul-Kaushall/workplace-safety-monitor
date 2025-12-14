@@ -38,36 +38,6 @@ An AI-powered system that:
 - **PostgreSQL** - Kestra data storage
 - **CodeRabbit** - Automated code reviews
 
-## 🏆 Hackathon Prize Qualifications
-
-### ✅ Wakanda Data Award ($4,000)
-**Requirement:** Use Kestra's AI Agent for data summarization and decision-making
-
-**How We Meet It:**
-- Kestra AI Agent (OpenAI) summarizes safety data
-- Makes intelligent decisions on alert routing
-- Determines priority levels automatically
-- Routes to appropriate response teams
-
-### ✅ Stormbreaker Deployment Award ($2,000)
-**Requirement:** Deploy on Vercel
-
-**How We Meet It:**
-- Live dashboard deployed on Vercel
-- Accessible globally
-- Professional interface
-- Mobile-responsive
-
-### ✅ Captain Code Award ($1,000)
-**Requirement:** Use CodeRabbit for code reviews
-
-**How We Meet It:**
-- CodeRabbit enabled on repository
-- Automated PR reviews
-- Code quality improvements
-- Best practices verified
-
-**Total Potential: $7,000** 💰
 
 ## 🚀 Quick Start
 
@@ -167,3 +137,4 @@ MIT License - Educational/Hackathon purposes
 ---
 
 **Built with ❤️ for workplace safety**
+
