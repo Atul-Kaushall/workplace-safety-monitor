@@ -106,7 +106,9 @@ export OPENAI_API_KEY=your_key_here
 - **Accurate** - AI model trained on workplace scenarios
 - **Flexible** - Easy to customize hazard types
 
-## 🎥 Demo Video
+## 🎥 Demo Video/Photos
+<img width="1916" height="1036" alt="image" src="https://github.com/user-attachments/assets/1242eb1e-d17a-4aa7-ba3f-95b7e7c096b5" />
+
 
 [Link to 3-minute demo video]
 
@@ -144,4 +146,5 @@ MIT License - Educational/Hackathon purposes
 ---
 
 **Built with ❤️ for workplace safety**
+
 
