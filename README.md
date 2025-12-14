@@ -58,18 +58,11 @@ cd workplace-safety-monitor
 docker-compose up -d
 ```
 
-3. **Set API Key**
-```bash
-# Windows
-set OPENAI_API_KEY=your_key_here
 
-# Mac/Linux
-export OPENAI_API_KEY=your_key_here
-```
 
 4. **Access Kestra**
 - Open: http://localhost:8080
-- Import workflow: `workplace_safety_flow.yml`
+
 
 5. **Run Analysis**
 - Execute workflow with demo image
@@ -109,6 +102,9 @@ export OPENAI_API_KEY=your_key_here
 ## 🎥 Demo Video/Photos
 <img width="1916" height="1036" alt="image" src="https://github.com/user-attachments/assets/1242eb1e-d17a-4aa7-ba3f-95b7e7c096b5" />
 
+<img width="1914" height="1020" alt="image" src="https://github.com/user-attachments/assets/6f6ded6d-0ce7-4738-a51a-d43122644cc6" />
+
+
 
 [Link to 3-minute demo video]
 
@@ -146,5 +142,6 @@ MIT License - Educational/Hackathon purposes
 ---
 
 **Built with ❤️ for workplace safety**
+
 
 
