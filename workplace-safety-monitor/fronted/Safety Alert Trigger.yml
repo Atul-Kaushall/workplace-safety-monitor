@@ -1,0 +1,15 @@
+id: safety.alert
+namespace: ai.safety
+
+tasks:
+  - id: send_summary
+    type: io.kestra.plugin.core.http.Request
+    method: POST
+    uri: https://api.oumi.ai/v1/generate
+    headers:
+      Authorization: "Bearer {{ secret('OUMI_KEY') }}"
+    body: |
+      {
+        "prompt": "Generate safety incident summary for detected hazard.",
+        "max_tokens": 100
+      }
